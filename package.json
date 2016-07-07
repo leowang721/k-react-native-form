@@ -1,6 +1,6 @@
 {
   "name": "k-react-native-form",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1",
   "license": "MIT",
   "author": {
     "name": "Leo Wang",
@@ -10,7 +10,7 @@
   "contributors": [],
   "dependencies": {
     "babel-plugin-transform-decorators": "^6.5.0",
-    "k-react-native-core": "^0.0.1-alpha.1",
+    "k-react-native-core": "^0.0.1",
     "lodash": "^3.10.1"
   },
   "main": "index",
